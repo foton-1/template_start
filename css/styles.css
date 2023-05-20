@@ -1,12 +1,10 @@
 :root {
   --color-2e2f4: #2e2f42;
   --color-e7e9fc: #e7e9fc;
-  --timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 body {
   margin: 0;
-  font-family: 'Roboto', sans-serif;
 }
 
 .list {
